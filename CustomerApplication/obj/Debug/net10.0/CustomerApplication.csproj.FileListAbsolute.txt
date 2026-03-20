@@ -2,3 +2,13 @@ C:\Users\vaibhav.makwana\source\repos\LMS\Practical-02\CustomerApplication\obj\D
 C:\Users\vaibhav.makwana\source\repos\LMS\Practical-02\CustomerApplication\obj\Debug\net10.0\CustomerApplication.AssemblyInfoInputs.cache
 C:\Users\vaibhav.makwana\source\repos\LMS\Practical-02\CustomerApplication\obj\Debug\net10.0\CustomerApplication.AssemblyInfo.cs
 C:\Users\vaibhav.makwana\source\repos\LMS\Practical-02\CustomerApplication\obj\Debug\net10.0\CustomerApplication.csproj.CoreCompileInputs.cache
+C:\Users\vaibhav.makwana\source\repos\LMS\Practical-02\CustomerApplication\bin\Debug\net10.0\CustomerApplication.exe
+C:\Users\vaibhav.makwana\source\repos\LMS\Practical-02\CustomerApplication\bin\Debug\net10.0\CustomerApplication.deps.json
+C:\Users\vaibhav.makwana\source\repos\LMS\Practical-02\CustomerApplication\bin\Debug\net10.0\CustomerApplication.runtimeconfig.json
+C:\Users\vaibhav.makwana\source\repos\LMS\Practical-02\CustomerApplication\bin\Debug\net10.0\CustomerApplication.dll
+C:\Users\vaibhav.makwana\source\repos\LMS\Practical-02\CustomerApplication\bin\Debug\net10.0\CustomerApplication.pdb
+C:\Users\vaibhav.makwana\source\repos\LMS\Practical-02\CustomerApplication\obj\Debug\net10.0\CustomerApplication.dll
+C:\Users\vaibhav.makwana\source\repos\LMS\Practical-02\CustomerApplication\obj\Debug\net10.0\refint\CustomerApplication.dll
+C:\Users\vaibhav.makwana\source\repos\LMS\Practical-02\CustomerApplication\obj\Debug\net10.0\CustomerApplication.pdb
+C:\Users\vaibhav.makwana\source\repos\LMS\Practical-02\CustomerApplication\obj\Debug\net10.0\CustomerApplication.genruntimeconfig.cache
+C:\Users\vaibhav.makwana\source\repos\LMS\Practical-02\CustomerApplication\obj\Debug\net10.0\ref\CustomerApplication.dll
