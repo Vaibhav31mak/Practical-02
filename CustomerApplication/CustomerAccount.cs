@@ -1,13 +1,14 @@
-﻿namespace CustomerApplication;
+﻿using System.Diagnostics.CodeAnalysis;
 
-public sealed class CustomerAccount
+namespace CustomerApplication;
+
+public class CustomerAccount
 {
-    private const string DefaultBankName = "State Bank of India";
+    public static string BankName { get; set; }
+    public required long CustomerAccountNo { get; set; }
+    public required string CustomerName { get; set; }
 
-    public string BankName { get; private set; } = DefaultBankName;
-    public required long CustomerAccountNo { get; init; }
-    public required string CustomerName { get; init; }
-
+    [SetsRequiredMembers]
     public CustomerAccount(long accountNo, string customerName)
     {
         CustomerAccountNo = accountNo;
@@ -20,10 +21,9 @@ public sealed class CustomerAccount
     /// </summary>
     public void PrintInfo()
     {
-        Console.WriteLine("----- Customer Account Details -----");
-        Console.WriteLine($"Bank Name          : {BankName}");
-        Console.WriteLine($"Account Number     : {CustomerAccountNo}");
-        Console.WriteLine($"Customer Name      : {CustomerName}");
-        Console.WriteLine("------------------------------------");
+        Console.WriteLine("Customer Account Details:-");
+        Console.WriteLine($"Bank Name: {BankName}");
+        Console.WriteLine($"Account Number: {CustomerAccountNo}");
+        Console.WriteLine($"Customer Name: {CustomerName}");
     }
 }
