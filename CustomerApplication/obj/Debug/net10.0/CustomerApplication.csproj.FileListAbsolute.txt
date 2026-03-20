@@ -1,0 +1,4 @@
+C:\Users\vaibhav.makwana\source\repos\LMS\Practical-02\CustomerApplication\obj\Debug\net10.0\CustomerApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaibhav.makwana\source\repos\LMS\Practical-02\CustomerApplication\obj\Debug\net10.0\CustomerApplication.AssemblyInfoInputs.cache
+C:\Users\vaibhav.makwana\source\repos\LMS\Practical-02\CustomerApplication\obj\Debug\net10.0\CustomerApplication.AssemblyInfo.cs
+C:\Users\vaibhav.makwana\source\repos\LMS\Practical-02\CustomerApplication\obj\Debug\net10.0\CustomerApplication.csproj.CoreCompileInputs.cache
