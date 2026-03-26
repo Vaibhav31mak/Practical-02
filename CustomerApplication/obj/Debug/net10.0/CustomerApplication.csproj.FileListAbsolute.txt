@@ -12,3 +12,4 @@ C:\Users\vaibhav.makwana\source\repos\LMS\Practical-02\CustomerApplication\obj\D
 C:\Users\vaibhav.makwana\source\repos\LMS\Practical-02\CustomerApplication\obj\Debug\net10.0\CustomerApplication.pdb
 C:\Users\vaibhav.makwana\source\repos\LMS\Practical-02\CustomerApplication\obj\Debug\net10.0\CustomerApplication.genruntimeconfig.cache
 C:\Users\vaibhav.makwana\source\repos\LMS\Practical-02\CustomerApplication\obj\Debug\net10.0\ref\CustomerApplication.dll
+C:\Users\vaibhav.makwana\source\repos\LMS\Practical-02\CustomerApplication\obj\Debug\net10.0\CustomerApplication.sourcelink.json
